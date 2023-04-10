@@ -1,7 +1,0 @@
-Happy
-Neutral
-Surprise
-Sad
-Angry
-Sad
-Neutral

@@ -24,7 +24,7 @@ class _HomeState extends State<Home> {
   }
 
   loadCamera(){
-    cameraController = CameraController(cameras![1], ResolutionPreset.medium);
+    cameraController = CameraController(cameras![0], ResolutionPreset.medium);
     cameraController!.initialize().then((value){
       if(!mounted){
         return;
@@ -66,7 +66,7 @@ class _HomeState extends State<Home> {
 
   loadModel()async{
     await Tflite.loadModel(
-        model: "assets/model.tflite", labels: "assets/labels.txt" );
+        model: "assets/model_unquant.tflite", labels: "assets/labels.txt" );
   }
 
 
