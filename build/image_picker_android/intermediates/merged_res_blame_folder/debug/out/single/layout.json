@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Emotion\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\143af95495b139e20fe44ca3345c7c85\\transformed\\core-1.8.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Emotion\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\143af95495b139e20fe44ca3345c7c85\\transformed\\core-1.8.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Emotion\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\143af95495b139e20fe44ca3345c7c85\\transformed\\core-1.8.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Emotion\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\143af95495b139e20fe44ca3345c7c85\\transformed\\core-1.8.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Emotion\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\143af95495b139e20fe44ca3345c7c85\\transformed\\core-1.8.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\AndroidStudioProjects\\Emotion\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\143af95495b139e20fe44ca3345c7c85\\transformed\\core-1.8.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]

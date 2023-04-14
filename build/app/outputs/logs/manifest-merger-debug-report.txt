@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml:3:4-33:19
+MERGED from [:image_picker_android] C:\Users\admin\AndroidStudioProjects\Emotion\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] C:\Users\admin\AndroidStudioProjects\Emotion\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [org.tensorflow:tensorflow-lite:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\6e7765a6e65dc89ac91fe1880bf0ca8f\transformed\jetified-tensorflow-lite-2.12.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\6e7765a6e65dc89ac91fe1880bf0ca8f\transformed\jetified-tensorflow-lite-2.12.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\b9e71b53aa2145f679e4231674c1b2e1\transformed\jetified-tensorflow-lite-gpu-2.12.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\b9e71b53aa2145f679e4231674c1b2e1\transformed\jetified-tensorflow-lite-gpu-2.12.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.8.0] C:\Users\admin\.gradle\caches\transforms-3\143af95495b139e20fe44ca3345c7c85\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\admin\.gradle\caches\transforms-3\143af95495b139e20fe44ca3345c7c85\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\admin\.gradle\caches\transforms-3\cf9d0bc4f55f3c51cfce3a4279375f12\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\admin\.gradle\caches\transforms-3\cf9d0bc4f55f3c51cfce3a4279375f12\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-api:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\260597b92d9f0ef537ff935bed0b139b\transformed\jetified-tensorflow-lite-api-2.12.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\260597b92d9f0ef537ff935bed0b139b\transformed\jetified-tensorflow-lite-api-2.12.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\admin\.gradle\caches\transforms-3\143af95495b139e20fe44ca3345c7c85\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [:tflite] C:\Users\admin\AndroidStudioProjects\Emotion\build\tflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker_android] C:\Users\admin\AndroidStudioProjects\Emotion\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\admin\AndroidStudioProjects\Emotion\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [org.tensorflow:tensorflow-lite:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\6e7765a6e65dc89ac91fe1880bf0ca8f\transformed\jetified-tensorflow-lite-2.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\b9e71b53aa2145f679e4231674c1b2e1\transformed\jetified-tensorflow-lite-gpu-2.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\admin\.gradle\caches\transforms-3\a1d514e480e7a1dcb0fbbc043401235e\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\6378abbff26c681e84b858eb52990e6b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\ddc2914f09e6f68b25874ab02464fca2\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\b018d444827f211f95cfd50032bd9b79\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\d52ddcd6263c24c8e79e97d6e9ec944e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\admin\.gradle\caches\transforms-3\143af95495b139e20fe44ca3345c7c85\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\admin\.gradle\caches\transforms-3\9218dd1c8287b6a02eaea37f4e1a602e\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\40598dad2865ed11a08f97223b5d0730\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\admin\.gradle\caches\transforms-3\d6f4948057d445ad055ed678dbfc5cae\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\admin\.gradle\caches\transforms-3\cf9d0bc4f55f3c51cfce3a4279375f12\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\e0d52fb0b385ef72e921dc4d8a7f9a43\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\admin\.gradle\caches\transforms-3\c51bf87cb7f0c9874545d3db5e833762\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\admin\.gradle\caches\transforms-3\013cdb5f3dbba0d69fe75e8b3926bd42\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\admin\.gradle\caches\transforms-3\22c6aeadaf032cdc1abbb20d9895af65\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\admin\.gradle\caches\transforms-3\22cb96a957396b792f29f67c3cba77cd\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\260597b92d9f0ef537ff935bed0b139b\transformed\jetified-tensorflow-lite-api-2.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\admin\.gradle\caches\transforms-3\58c554f4bfce7ee9b57b3d56b4b13b0a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml:2:5-29
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml
+MERGED from [:tflite] C:\Users\admin\AndroidStudioProjects\Emotion\build\tflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:tflite] C:\Users\admin\AndroidStudioProjects\Emotion\build\tflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\admin\AndroidStudioProjects\Emotion\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\admin\AndroidStudioProjects\Emotion\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\admin\AndroidStudioProjects\Emotion\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\admin\AndroidStudioProjects\Emotion\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\6e7765a6e65dc89ac91fe1880bf0ca8f\transformed\jetified-tensorflow-lite-2.12.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\6e7765a6e65dc89ac91fe1880bf0ca8f\transformed\jetified-tensorflow-lite-2.12.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\b9e71b53aa2145f679e4231674c1b2e1\transformed\jetified-tensorflow-lite-gpu-2.12.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\b9e71b53aa2145f679e4231674c1b2e1\transformed\jetified-tensorflow-lite-gpu-2.12.0\AndroidManifest.xml:6:5-7:38
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\admin\.gradle\caches\transforms-3\a1d514e480e7a1dcb0fbbc043401235e\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\admin\.gradle\caches\transforms-3\a1d514e480e7a1dcb0fbbc043401235e\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\6378abbff26c681e84b858eb52990e6b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\6378abbff26c681e84b858eb52990e6b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\ddc2914f09e6f68b25874ab02464fca2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\ddc2914f09e6f68b25874ab02464fca2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\b018d444827f211f95cfd50032bd9b79\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\b018d444827f211f95cfd50032bd9b79\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\d52ddcd6263c24c8e79e97d6e9ec944e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\d52ddcd6263c24c8e79e97d6e9ec944e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\admin\.gradle\caches\transforms-3\143af95495b139e20fe44ca3345c7c85\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\admin\.gradle\caches\transforms-3\143af95495b139e20fe44ca3345c7c85\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\admin\.gradle\caches\transforms-3\9218dd1c8287b6a02eaea37f4e1a602e\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\admin\.gradle\caches\transforms-3\9218dd1c8287b6a02eaea37f4e1a602e\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\40598dad2865ed11a08f97223b5d0730\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\40598dad2865ed11a08f97223b5d0730\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\admin\.gradle\caches\transforms-3\d6f4948057d445ad055ed678dbfc5cae\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\admin\.gradle\caches\transforms-3\d6f4948057d445ad055ed678dbfc5cae\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\admin\.gradle\caches\transforms-3\cf9d0bc4f55f3c51cfce3a4279375f12\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\admin\.gradle\caches\transforms-3\cf9d0bc4f55f3c51cfce3a4279375f12\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\e0d52fb0b385ef72e921dc4d8a7f9a43\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\e0d52fb0b385ef72e921dc4d8a7f9a43\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\admin\.gradle\caches\transforms-3\c51bf87cb7f0c9874545d3db5e833762\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\admin\.gradle\caches\transforms-3\c51bf87cb7f0c9874545d3db5e833762\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\admin\.gradle\caches\transforms-3\013cdb5f3dbba0d69fe75e8b3926bd42\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\admin\.gradle\caches\transforms-3\013cdb5f3dbba0d69fe75e8b3926bd42\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\admin\.gradle\caches\transforms-3\22c6aeadaf032cdc1abbb20d9895af65\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\admin\.gradle\caches\transforms-3\22c6aeadaf032cdc1abbb20d9895af65\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\admin\.gradle\caches\transforms-3\22cb96a957396b792f29f67c3cba77cd\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\admin\.gradle\caches\transforms-3\22cb96a957396b792f29f67c3cba77cd\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-api:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\260597b92d9f0ef537ff935bed0b139b\transformed\jetified-tensorflow-lite-api-2.12.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-api:2.12.0] C:\Users\admin\.gradle\caches\transforms-3\260597b92d9f0ef537ff935bed0b139b\transformed\jetified-tensorflow-lite-api-2.12.0\AndroidManifest.xml:6:5-7:38
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\admin\.gradle\caches\transforms-3\58c554f4bfce7ee9b57b3d56b4b13b0a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\admin\.gradle\caches\transforms-3\58c554f4bfce7ee9b57b3d56b4b13b0a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\debug\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\admin\AndroidStudioProjects\Emotion\android\app\src\debug\AndroidManifest.xml:7:22-64
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] C:\Users\admin\AndroidStudioProjects\Emotion\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] C:\Users\admin\AndroidStudioProjects\Emotion\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] C:\Users\admin\AndroidStudioProjects\Emotion\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] C:\Users\admin\AndroidStudioProjects\Emotion\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] C:\Users\admin\AndroidStudioProjects\Emotion\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] C:\Users\admin\AndroidStudioProjects\Emotion\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] C:\Users\admin\AndroidStudioProjects\Emotion\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] C:\Users\admin\AndroidStudioProjects\Emotion\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
